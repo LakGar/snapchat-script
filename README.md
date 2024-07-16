@@ -1,0 +1,1 @@
+Google clout console: "https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fconsole.cloud.google.com%2F&followup=https%3A%2F%2Fconsole.cloud.google.com%2F&osid=1&passive=1209600&service=cloudconsole&ifkv=AdF4I76_H7Ufw6U2G3kEG4yuO3yWOMFf1UgEz4h5YapdhI_Qtu0LHg9WSyAzgfftOUv9406RVTidkA&ddm=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
